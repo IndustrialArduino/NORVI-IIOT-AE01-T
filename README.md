@@ -15,5 +15,5 @@ Transistor Outputs
 DIN-Rail mount
 Supports Expansion port
 
-Datasheet:   https://drive.google.com/open?id=152kRSS9hff5valZSMKi7YnnroikAVc93&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1bDFZyo3uEsdlOPkVDOZvj3IG-tN3OHF1&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-iiot-ae01-t-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-iiot-ae01-t-user-guide/
